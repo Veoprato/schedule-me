@@ -1,6 +1,8 @@
 
   # Schedule.me: Work Day Scheduler
   [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
+  ![Front Page of Website](/assets/page-sc.jpg)
+  
   ## Description
   A simple calendar application that allows a user to save events for each hour of their work day.
   The app runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
